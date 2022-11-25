@@ -1,3 +1,5 @@
+Portfolio: [jamesserengia.com](https://jamesserengia.com)
+
 # Facebook Clone - MERN stack - Frontend Project
 
 This is a full Facebook clone project using React. You can checkout the backend implementation in a separate Repo.
@@ -23,7 +25,7 @@ npm run build
 
 ## Live Demo
 
-[Live Demo Link](https://jamesserengia.com/)
+[Live Demo Link](https://jamesserengia.com/) (COMING SOON!)
 
 👤 **Author**
 
